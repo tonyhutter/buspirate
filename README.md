@@ -1,4 +1,4 @@
-#Bus Pirate I2C bus driver
+# Bus Pirate I2C bus driver
 
 This is an I2C bus driver for the Dangerous Prototypes "Bus Pirate" board
 (http://dangerousprototypes.com/docs/Bus_Pirate).  The Bus Pirate is bus
